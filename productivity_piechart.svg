@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 936 648" style="enable-background:new 0 0 936 648;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{clip-path:url(#SVGID_2_);fill:url(#SVGID_4_);}
+	.st2{clip-path:url(#SVGID_2_);mask:url(#SVGID_3_);}
+	.st3{clip-path:url(#SVGID_6_);fill:#25408F;}
+	.st4{clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:1.243;stroke-miterlimit:10;}
+	.st5{clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:1.243;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st7{fill:none;}
+	.st8{fill:#FFFFFF;}
+	.st9{font-family:'MyriadPro-Regular';}
+	.st10{font-size:10px;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="375.6" y="222.6" width="194.4" height="194.4"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="366.6" y="215.6" width="212.4" height="202.4">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="366.6" y="215.6" width="212.4" height="202.4" id="SVGID_3_">
+			<g class="st0">
+				
+					<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="2.9274" y1="650.6938" x2="3.9274" y2="650.6938" gradientTransform="matrix(194.3568 0 0 -194.3568 -193.3568 126786.5625)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#080808"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				<rect x="375.6" y="222.6" class="st1" width="194.4" height="194.4"/>
+			</g>
+		</mask>
+		<g class="st2">
+			<g>
+				<defs>
+					<rect id="SVGID_5_" x="366.6" y="215.6" width="212.4" height="202.4"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+				</clipPath>
+				<path class="st3" d="M472.8,417c53.7,0,97.2-43.5,97.2-97.2c0-53.7-43.5-97.2-97.2-97.2s-97.2,43.5-97.2,97.2
+					C375.6,373.5,419.1,417,472.8,417"/>
+			</g>
+		</g>
+		<path class="st4" d="M389.9,369.3c-8.7-14.5-13.7-31.4-13.7-49.5c0-11.6,2.1-22.8,5.8-33.1 M389.9,369.3
+			c16.9,28.2,47.7,47,82.9,47c4.3,0,8.4-0.3,12.5-0.8l-12.5-95.7L389.9,369.3z M485.3,415.5L485.3,415.5c-4.1,0.5-8.3,0.8-12.5,0.8
+			c-35.2,0-66-18.9-82.9-47 M485.3,415.5c47.4-6.1,84-46.7,84-95.7c0-53.3-43.2-96.6-96.6-96.6v96.6L485.3,415.5z M472.8,223.2
+			c-18.4,0-35.5,5.1-50.2,14l50.2,82.5V223.2z"/>
+		<path class="st5" d="M382,286.7c-3.8,10.3-5.8,21.5-5.8,33.1c0,18.1,5,35,13.7,49.5l82.9-49.5L382,286.7z"/>
+		<path class="st4" d="M382,286.7c7.6-20.7,22-38.1,40.6-49.4"/>
+		<path class="st5" d="M382,286.7l90.7,33.1l-50.2-82.5C404.1,248.6,389.6,266,382,286.7z"/>
+	</g>
+	<polyline class="st6" points="556.8,271.2 582,255.6 611.5,255.6 	"/>
+	<polyline class="st6" points="445.7,226.1 437.9,216.5 411.8,216.5 	"/>
+	<polyline class="st6" points="398.9,257.7 387.5,241.6 353.7,241.6 	"/>
+	<line class="st6" x1="376.3" y1="331.1" x2="339.8" y2="331.1"/>
+	<polyline class="st6" points="428.8,405.7 411.8,418 375.6,417 	"/>
+	<rect x="614.5" y="251.2" class="st7" width="66.8" height="27"/>
+	<text transform="matrix(1 0 0 1 614.4988 258.2869)"><tspan x="0" y="0" class="st8 st9 st10">48%  Design &amp; </tspan><tspan x="0" y="12" class="st8 st9 st10">Composition</tspan></text>
+	<rect x="314.5" y="412.3" class="st7" width="66.8" height="23.6"/>
+	<text transform="matrix(1 0 0 1 314.53 419.3501)"><tspan x="0" y="0" class="st8 st9 st10">14%  Software </tspan><tspan x="0" y="12" class="st8 st9 st10">Development</tspan></text>
+	<rect x="254.7" y="326.3" class="st7" width="90.3" height="23.6"/>
+	<text transform="matrix(1 0 0 1 254.6547 333.433)" class="st8 st9 st10">10%  Uncategorized</text>
+	<rect x="269.1" y="237.8" class="st7" width="88.9" height="40.3"/>
+	<text transform="matrix(1 0 0 1 269.1053 244.9432)"><tspan x="0" y="0" class="st8 st9 st10">8%  Communication </tspan><tspan x="0" y="12" class="st8 st9 st10">&amp; Scheduling</tspan></text>
+	<rect x="343.4" y="212.2" class="st7" width="75.9" height="40.3"/>
+	<text transform="matrix(1 0 0 1 343.4055 219.2832)"><tspan x="0" y="0" class="st8 st9 st10">7%  Reference &amp; </tspan><tspan x="0" y="12" class="st8 st9 st10">Learning</tspan></text>
+</g>
+</svg>

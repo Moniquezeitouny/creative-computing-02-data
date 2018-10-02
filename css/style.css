@@ -2,6 +2,15 @@
   box-sizing: border-box;
 }
 
+
+CSS
+
+
+
+* {
+  box-sizing: border-box;
+}
+
 html {
   margin: 0;
   padding: 0;
@@ -13,7 +22,42 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  background: rgb(37,64,143);
+background: linear-gradient(90deg, 
+  rgba(37,64,143,1) 10%, 
+  rgba(37,60,135,1) 16%, 
+  rgba(31,2,29,1) 100%);
 }
+
+.container{
+  position: relative;
+}
+.productivity {
+  color: white;
+  text-align: center;
+  font-style: normal;
+  letter-spacing: 2px;
+ 
+}
+
+.graph{
+  position: absolute;
+  bottom:-35%;
+  }
+
+.time{ 
+  color: white;
+  text-align: center;
+  font-style: normal;
+  letter-spacing: 2px;
+  position: absolute;
+  bottom: 25%;
+  left:37%;
+}
+
+.chart{ position: absolute;
+  top:43%;
+  }
 
 .content {
   font-size: 0;
@@ -50,4 +94,17 @@ body {
 
 .box-2 {
   background-color: #777;
+}
+
+
+
+.monique
+{ font-family: Futura; 
+  font-size: 29px; 
+  font-style: normal;  
+  line-height: 37px; 
+color: white;
+text-align: center;
+padding-top: 25%;
+letter-spacing: 10px;
 }
